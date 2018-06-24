@@ -2,8 +2,76 @@
 Testing the different features of GitHub, per the tutorial
 
 <!DOCTYPE html>
-<html>
-  <head>
-    <h3>This is a big 'ol test</h3>
-  </head>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"> <!-- character encoding-->
+		<!-- description for this page-->
+		<meta name="description" content="A wiki-style informational page about Half Moon Band"> 
+		<title> About: Half Moon Band </title>
+	</head>
+	<body> <!-- visible content-->
+		<img src="file:///Users/afischerbrown/Desktop/13227848_550220208493311_5972755944364022289_o%20(1).jpg" width="200" height="200" align="right" alt="Half Moon Band Album Logo">
+		<h1>Half Moon Band&trade;</h1>
+		<div>
+			<p class="intro">Half Moon Band ("HMB" or, previously, "The Titty Sexinators") are an American pop/rock band from Chapel Hill, North Carolina.</p>
+		</div>
+		<div>	
+			<h2>Table of Contents</h2>  
+			<ol>
+				<li><a href="#History">History</a></li> <!-- reference to stuff lower in page LIKE LINK IN PAGE --> 
+				<li><a href="#Members">Members</a></li> <!-- make this better later-->
+				<li><a href="#Discography">Discography</a></li>
+				<li><a href="#Controversy">Controversy</a></li>
+				<li><a href="#References">References</a></li> <!-- just me, bitch-->
+				<li><a href="#external">External Links</a></li>
+			</ol>
+		</div>
+		<div id="History">
+			<h2>History</h2>
+			<h3>Formation</h3>
+			<h3>Post-Follies Struggles</h3>
+			<h3>Lineup Change and Rise in Popularity</h3>
+		</div>
+		<div id="Members">
+			<h2>Members</h2>
+				<h3>Current Members</h3>
+					<ul>
+						<li>Jackson Cabell &mdash; acoustic guitar, electric guitar, tickling</li>
+						<li>Aden Fischer-Brown &mdash; piano, keyboards, drums (2014), vocals</li>
+						<li>Jared Weber &mdash; violin, vocals</li>
+						<li>Tucker Wright &mdash; drums (2015-2016)</li>
+						<li>Chris Volk &mdash; bass guitar</li>
+						<li>Nick Young &mdash; electric guitar, acoustic guitar, vocals</li>
+					</ul>
+				<h3>Past Members</h3>
+					<ul>
+						<li>Kunal Lodaya &mdash; drums (2015)</li>
+					</ul>
+		</div>
+		<div id="Discography">
+			<h2>Discography</h2>
+		</div>
+		<div id="Controversy">
+			<h2>Controversy</h2>
+		</div>
+		<div id="References">
+			<h2>References</h2>
+				<p><strong><em>Just me, bitch.</em></strong></p>
+		</div>
+		<div id="external">
+			<h2>External Links</h2>
+			<ul>
+				<li><a href="https://www.facebook.com/thehalfmoonband/" target=_blank>Official Facebook</a></li>
+				<li><a href="https://store.cdbaby.com/cd/halfmoonband2" target=_blank>Purchase CDs</a></li>
+				<li>Soundcloud</li>
+				<li>Spotify</li>
+				<li>iTunes</li>
+				<li>YouTube</li>
+			</ul>
+		<h5><a href="https://www.facebook.com/afischerbrown" target="_blank">About the Author</a></h5>
+	</body>
 </html>
+
+
+
+<!-- this is a comment test--> 
