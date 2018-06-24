@@ -1,6 +1,3 @@
-# test-repo
-Testing the different features of GitHub, per the tutorial
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -61,8 +58,8 @@ Testing the different features of GitHub, per the tutorial
 		<div id="external">
 			<h2>External Links</h2>
 			<ul>
-				<li><a href="https://www.facebook.com/thehalfmoonband/" target=_blank>Official Facebook</a></li>
-				<li><a href="https://store.cdbaby.com/cd/halfmoonband2" target=_blank>Purchase CDs</a></li>
+				<li><a href="https://www.facebook.com/thehalfmoonband/" target="_blank">Official Facebook</a></li>
+				<li><a href="https://store.cdbaby.com/cd/halfmoonband2" target="_blank">Purchase CDs</a></li>
 				<li>Soundcloud</li>
 				<li>Spotify</li>
 				<li>iTunes</li>
