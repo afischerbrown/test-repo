@@ -53,7 +53,6 @@ Testing the different features of GitHub, per the tutorial
 		</div>
 		<div id="Controversy">
 			<h2>Controversy</h2>
-
 		</div>
 		<div id="References">
 			<h2>References</h2>
