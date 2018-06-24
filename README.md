@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8"> <!-- character encoding-->
@@ -7,7 +6,7 @@
 		<title> About: Half Moon Band </title>
 	</head>
 	<body> <!-- visible content-->
-		<img src="file:///Users/afischerbrown/Desktop/13227848_550220208493311_5972755944364022289_o%20(1).jpg" width="200" height="200" align="right" alt="Half Moon Band Album Logo">
+		<img src="https://drive.google.com/file/d/1xSckq57C2kih9ktfwVneCea1cJrswz8-/view?usp=sharing" width="200" height="200" align="right" alt="Half Moon Band Album Logo">
 		<h1>Half Moon Band&trade;</h1>
 		<div>
 			<p class="intro">Half Moon Band ("HMB" or, previously, "The Titty Sexinators") are an American pop/rock band from Chapel Hill, North Carolina.</p>
